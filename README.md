@@ -62,13 +62,6 @@
 
 ---
 
-## 🔧 Installation & Setup
-
-### 📦 Backend – Auth System (Node.js)
-
-cd auth
-npm install
-node index.js
 
 ---
 
