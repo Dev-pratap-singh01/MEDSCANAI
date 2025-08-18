@@ -63,15 +63,6 @@
 ---
 
 
----
-
-## 🖥️ Screenshots
-
-### 🔹 Dashboard
-
-https://github.com/user-attachments/assets/26fcbda8-3453-473a-b891-87df811b2215
-
-
 ## 📂 Tech Stack
 - **Machine Learning & Deep Learning** – TensorFlow, PyTorch, OpenCV
 - **Frontend** – HTML, CSS, JavaScript
