@@ -88,14 +88,14 @@
 
 ---
 
-## Backend – Auth System (Node.js)
-# Navigate to auth directory
+# Backend – Auth System (Node.js)
+ Navigate to auth directory
 cd auth
 
-# Install Node.js dependencies
+ Install Node.js dependencies
 npm install
 
-# Start the server
+ Start the server
 node index.js
 
 
